@@ -1,4 +1,4 @@
-![Dragonizedpizza Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Dragonizedpizza Banner](https://raw.githubusercontent.com/Dragonizedpizza/Dragonizedpizza/master/assets/Banner.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
@@ -10,9 +10,9 @@
 🌱 &nbsp;I'm learning JavaScript, C and Python.\
 🎮 &nbsp;In my free time, I play games like Minecraft and Muck.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at dragon@dragonizedpizza.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at dragon@dragonizedpizza.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Dragonizedpizza/Dragonizedpizza/master/assets/DarkCoding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,7 +32,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Dragonizedpizza">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dragonizedpizza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dragonizedpizza&layout=compact&langs_count=8&theme=algolia"/>
 </a>
